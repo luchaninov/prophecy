@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Promise;
+namespace LuchaninovProphecy\Promise;
 
 use Doctrine\Instantiator\Instantiator;
-use Prophecy\Prophecy\ObjectProphecy;
-use Prophecy\Prophecy\MethodProphecy;
-use Prophecy\Exception\InvalidArgumentException;
+use LuchaninovProphecy\Prophecy\ObjectProphecy;
+use LuchaninovProphecy\Prophecy\MethodProphecy;
+use LuchaninovProphecy\Exception\InvalidArgumentException;
 use ReflectionClass;
 
 /**

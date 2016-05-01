@@ -3,7 +3,7 @@
 namespace spec\Prophecy\Doubler\ClassPatch;
 
 use PhpSpec\ObjectBehavior;
-use Prophecy\Argument;
+use LuchaninovProphecy\Argument;
 
 class HhvmExceptionPatchSpec extends ObjectBehavior
 {

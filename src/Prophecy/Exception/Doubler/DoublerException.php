@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Exception\Doubler;
+namespace LuchaninovProphecy\Exception\Doubler;
 
-use Prophecy\Exception\Exception;
+use LuchaninovProphecy\Exception\Exception;
 
 interface DoublerException extends Exception
 {

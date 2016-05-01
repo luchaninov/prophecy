@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Prophecy;
+namespace LuchaninovProphecy\Prophecy;
 
 use SebastianBergmann\Comparator\ComparisonFailure;
-use Prophecy\Comparator\Factory as ComparatorFactory;
-use Prophecy\Call\Call;
-use Prophecy\Doubler\LazyDouble;
-use Prophecy\Argument\ArgumentsWildcard;
-use Prophecy\Call\CallCenter;
-use Prophecy\Exception\Prophecy\ObjectProphecyException;
-use Prophecy\Exception\Prophecy\MethodProphecyException;
-use Prophecy\Exception\Prediction\AggregateException;
-use Prophecy\Exception\Prediction\PredictionException;
+use LuchaninovProphecy\Comparator\Factory as ComparatorFactory;
+use LuchaninovProphecy\Call\Call;
+use LuchaninovProphecy\Doubler\LazyDouble;
+use LuchaninovProphecy\Argument\ArgumentsWildcard;
+use LuchaninovProphecy\Call\CallCenter;
+use LuchaninovProphecy\Exception\Prophecy\ObjectProphecyException;
+use LuchaninovProphecy\Exception\Prophecy\MethodProphecyException;
+use LuchaninovProphecy\Exception\Prediction\AggregateException;
+use LuchaninovProphecy\Exception\Prediction\PredictionException;
 
 /**
  * Object prophecy.

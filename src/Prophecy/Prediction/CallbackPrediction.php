@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Prediction;
+namespace LuchaninovProphecy\Prediction;
 
-use Prophecy\Call\Call;
-use Prophecy\Prophecy\ObjectProphecy;
-use Prophecy\Prophecy\MethodProphecy;
-use Prophecy\Exception\InvalidArgumentException;
+use LuchaninovProphecy\Call\Call;
+use LuchaninovProphecy\Prophecy\ObjectProphecy;
+use LuchaninovProphecy\Prophecy\MethodProphecy;
+use LuchaninovProphecy\Exception\InvalidArgumentException;
 use Closure;
 
 /**

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Exception\Prophecy;
+namespace LuchaninovProphecy\Exception\Prophecy;
 
-use Prophecy\Exception\Exception;
+use LuchaninovProphecy\Exception\Exception;
 
 interface ProphecyException extends Exception
 {

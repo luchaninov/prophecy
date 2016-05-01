@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Argument\Token;
+namespace LuchaninovProphecy\Argument\Token;
 
 /**
  * Approximate value token

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Doubler\Generator;
+namespace LuchaninovProphecy\Doubler\Generator;
 
-use Prophecy\Exception\Doubler\ClassCreatorException;
+use LuchaninovProphecy\Exception\Doubler\ClassCreatorException;
 
 /**
  * Class creator.

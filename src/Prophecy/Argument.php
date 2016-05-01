@@ -11,7 +11,7 @@
 
 namespace Prophecy;
 
-use Prophecy\Argument\Token;
+use LuchaninovProphecy\Argument\Token;
 
 /**
  * Argument tokens shortcuts.

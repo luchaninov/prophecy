@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Doubler\Generator;
+namespace LuchaninovProphecy\Doubler\Generator;
 
 /**
  * Class code creator.

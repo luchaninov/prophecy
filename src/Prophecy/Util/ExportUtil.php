@@ -1,8 +1,8 @@
 <?php
 
-namespace Prophecy\Util;
+namespace LuchaninovProphecy\Util;
 
-use Prophecy\Prophecy\ProphecyInterface;
+use LuchaninovProphecy\Prophecy\ProphecyInterface;
 use SebastianBergmann\RecursionContext\Context;
 
 /*

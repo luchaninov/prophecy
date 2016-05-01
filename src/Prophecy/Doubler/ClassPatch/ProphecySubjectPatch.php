@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Doubler\ClassPatch;
+namespace LuchaninovProphecy\Doubler\ClassPatch;
 
-use Prophecy\Doubler\Generator\Node\ClassNode;
-use Prophecy\Doubler\Generator\Node\MethodNode;
-use Prophecy\Doubler\Generator\Node\ArgumentNode;
+use LuchaninovProphecy\Doubler\Generator\Node\ClassNode;
+use LuchaninovProphecy\Doubler\Generator\Node\MethodNode;
+use LuchaninovProphecy\Doubler\Generator\Node\ArgumentNode;
 
 /**
  * Add Prophecy functionality to the double.

@@ -3,7 +3,7 @@
 namespace spec\Prophecy\Argument;
 
 use PhpSpec\ObjectBehavior;
-use Prophecy\Argument\Token\TokenInterface;
+use LuchaninovProphecy\Argument\Token\TokenInterface;
 
 class ArgumentsWildcardSpec extends ObjectBehavior
 {

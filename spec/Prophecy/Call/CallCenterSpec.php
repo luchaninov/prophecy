@@ -3,8 +3,8 @@
 namespace spec\Prophecy\Call;
 
 use PhpSpec\ObjectBehavior;
-use Prophecy\Prophecy\ObjectProphecy;
-use Prophecy\Argument\ArgumentsWildcard;
+use LuchaninovProphecy\Prophecy\ObjectProphecy;
+use LuchaninovProphecy\Argument\ArgumentsWildcard;
 
 class CallCenterSpec extends ObjectBehavior
 {

@@ -3,7 +3,7 @@
 namespace spec\Prophecy\Argument\Token;
 
 use PhpSpec\ObjectBehavior;
-use Prophecy\Argument;
+use LuchaninovProphecy\Argument;
 
 class LogicalAndTokenSpec extends ObjectBehavior
 {

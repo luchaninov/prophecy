@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Exception;
+namespace LuchaninovProphecy\Exception;
 
 /**
  * Core Prophecy exception interface.

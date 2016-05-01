@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Doubler\Generator\Node;
+namespace LuchaninovProphecy\Doubler\Generator\Node;
 
-use Prophecy\Exception\Doubler\MethodNotExtendableException;
-use Prophecy\Exception\InvalidArgumentException;
+use LuchaninovProphecy\Exception\Doubler\MethodNotExtendableException;
+use LuchaninovProphecy\Exception\InvalidArgumentException;
 
 /**
  * Class node.

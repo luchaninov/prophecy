@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Argument\Token;
+namespace LuchaninovProphecy\Argument\Token;
 
 use SebastianBergmann\Comparator\ComparisonFailure;
-use Prophecy\Comparator\Factory as ComparatorFactory;
-use Prophecy\Util\StringUtil;
+use LuchaninovProphecy\Comparator\Factory as ComparatorFactory;
+use LuchaninovProphecy\Util\StringUtil;
 
 /**
  * Exact value token.

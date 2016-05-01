@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Prophecy;
+namespace LuchaninovProphecy\Prophecy;
 
-use Prophecy\Argument;
-use Prophecy\Prophet;
-use Prophecy\Promise;
-use Prophecy\Prediction;
-use Prophecy\Exception\Doubler\MethodNotFoundException;
-use Prophecy\Exception\InvalidArgumentException;
-use Prophecy\Exception\Prophecy\MethodProphecyException;
+use LuchaninovProphecy\Argument;
+use LuchaninovProphecy\Prophet;
+use LuchaninovProphecy\Promise;
+use LuchaninovProphecy\Prediction;
+use LuchaninovProphecy\Exception\Doubler\MethodNotFoundException;
+use LuchaninovProphecy\Exception\InvalidArgumentException;
+use LuchaninovProphecy\Exception\Prophecy\MethodProphecyException;
 
 /**
  * Method prophecy.

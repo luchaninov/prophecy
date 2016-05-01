@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Exception\Prediction;
+namespace LuchaninovProphecy\Exception\Prediction;
 
-use Prophecy\Prophecy\MethodProphecy;
-use Prophecy\Exception\Prophecy\MethodProphecyException;
+use LuchaninovProphecy\Prophecy\MethodProphecy;
+use LuchaninovProphecy\Exception\Prophecy\MethodProphecyException;
 
 class UnexpectedCallsException extends MethodProphecyException implements PredictionException
 {

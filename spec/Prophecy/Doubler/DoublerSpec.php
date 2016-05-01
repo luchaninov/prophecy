@@ -3,7 +3,7 @@
 namespace spec\Prophecy\Doubler;
 
 use PhpSpec\ObjectBehavior;
-use Prophecy\Argument;
+use LuchaninovProphecy\Argument;
 
 class DoublerSpec extends ObjectBehavior
 {

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Doubler\ClassPatch;
+namespace LuchaninovProphecy\Doubler\ClassPatch;
 
-use Prophecy\Doubler\Generator\Node\ClassNode;
+use LuchaninovProphecy\Doubler\Generator\Node\ClassNode;
 
 /**
  * Remove method functionality from the double which will clash with php keywords.

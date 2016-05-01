@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Doubler;
+namespace LuchaninovProphecy\Doubler;
 
 /**
  * Core double interface.

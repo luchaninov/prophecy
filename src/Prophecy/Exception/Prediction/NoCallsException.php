@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Exception\Prediction;
+namespace LuchaninovProphecy\Exception\Prediction;
 
-use Prophecy\Exception\Prophecy\MethodProphecyException;
+use LuchaninovProphecy\Exception\Prophecy\MethodProphecyException;
 
 class NoCallsException extends MethodProphecyException implements PredictionException
 {

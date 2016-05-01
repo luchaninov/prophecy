@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Argument;
+namespace LuchaninovProphecy\Argument;
 
 /**
  * Arguments wildcarding.

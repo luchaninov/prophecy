@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Prophecy\Promise;
+namespace LuchaninovProphecy\Promise;
 
-use Prophecy\Exception\InvalidArgumentException;
-use Prophecy\Prophecy\ObjectProphecy;
-use Prophecy\Prophecy\MethodProphecy;
+use LuchaninovProphecy\Exception\InvalidArgumentException;
+use LuchaninovProphecy\Prophecy\ObjectProphecy;
+use LuchaninovProphecy\Prophecy\MethodProphecy;
 
 /**
  * Return argument promise.

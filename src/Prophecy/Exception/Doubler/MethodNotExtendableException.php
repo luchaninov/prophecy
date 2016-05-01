@@ -1,6 +1,6 @@
 <?php
 
-    namespace Prophecy\Exception\Doubler;
+    namespace LuchaninovProphecy\Exception\Doubler;
 
     class MethodNotExtendableException extends DoubleException
     {

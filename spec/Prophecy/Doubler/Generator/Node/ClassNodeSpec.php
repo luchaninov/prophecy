@@ -3,7 +3,7 @@
 namespace spec\Prophecy\Doubler\Generator\Node;
 
 use PhpSpec\ObjectBehavior;
-use Prophecy\Exception\Doubler\MethodNotExtendableException;
+use LuchaninovProphecy\Exception\Doubler\MethodNotExtendableException;
 
 class ClassNodeSpec extends ObjectBehavior
 {
