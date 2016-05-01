@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Promise;
+namespace Prophecy\Promise;
 
-use LuchaninovProphecy\Prophecy\ObjectProphecy;
-use LuchaninovProphecy\Prophecy\MethodProphecy;
+use Prophecy\Prophecy\ObjectProphecy;
+use Prophecy\Prophecy\MethodProphecy;
 
 /**
  * Promise interface.

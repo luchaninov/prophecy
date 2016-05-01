@@ -228,7 +228,7 @@ with your expectations. And yes, those classnames are damn big. That's why there
 shortcut class `Prophecy\Argument`, which you can use to create tokens like that:
 
 ```php
-use LuchaninovProphecy\Argument;
+use Prophecy\Argument;
 
 $user->setName(Argument::exact('everzet'));
 ```
@@ -252,7 +252,7 @@ And you can add even more by implementing `TokenInterface` with your own custom 
 So, let's refactor our initial `{set,get}Name()` logic with argument tokens:
 
 ```php
-use LuchaninovProphecy\Argument;
+use Prophecy\Argument;
 
 $user->getName()->willReturn(null);
 
@@ -279,7 +279,7 @@ no behavior whatsoever.
 One last bit about arguments now. You might ask, what happens in case of:
 
 ```php
-use LuchaninovProphecy\Argument;
+use Prophecy\Argument;
 
 $user->getName()->willReturn(null);
 

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Exception\Prediction;
+namespace Prophecy\Exception\Prediction;
 
 use RuntimeException;
 

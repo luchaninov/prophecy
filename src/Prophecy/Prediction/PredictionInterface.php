@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Prediction;
+namespace Prophecy\Prediction;
 
-use LuchaninovProphecy\Call\Call;
-use LuchaninovProphecy\Prophecy\ObjectProphecy;
-use LuchaninovProphecy\Prophecy\MethodProphecy;
+use Prophecy\Call\Call;
+use Prophecy\Prophecy\ObjectProphecy;
+use Prophecy\Prophecy\MethodProphecy;
 
 /**
  * Prediction interface.

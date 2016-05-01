@@ -11,16 +11,16 @@
 
 namespace Prophecy;
 
-use LuchaninovProphecy\Doubler\Doubler;
-use LuchaninovProphecy\Doubler\LazyDouble;
-use LuchaninovProphecy\Doubler\ClassPatch;
-use LuchaninovProphecy\Prophecy\ObjectProphecy;
-use LuchaninovProphecy\Prophecy\RevealerInterface;
-use LuchaninovProphecy\Prophecy\Revealer;
-use LuchaninovProphecy\Call\CallCenter;
-use LuchaninovProphecy\Util\StringUtil;
-use LuchaninovProphecy\Exception\Prediction\PredictionException;
-use LuchaninovProphecy\Exception\Prediction\AggregateException;
+use Prophecy\Doubler\Doubler;
+use Prophecy\Doubler\LazyDouble;
+use Prophecy\Doubler\ClassPatch;
+use Prophecy\Prophecy\ObjectProphecy;
+use Prophecy\Prophecy\RevealerInterface;
+use Prophecy\Prophecy\Revealer;
+use Prophecy\Call\CallCenter;
+use Prophecy\Util\StringUtil;
+use Prophecy\Exception\Prediction\PredictionException;
+use Prophecy\Exception\Prediction\AggregateException;
 
 /**
  * Prophet creates prophecies.

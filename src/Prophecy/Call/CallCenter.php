@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Call;
+namespace Prophecy\Call;
 
-use LuchaninovProphecy\Prophecy\MethodProphecy;
-use LuchaninovProphecy\Prophecy\ObjectProphecy;
-use LuchaninovProphecy\Argument\ArgumentsWildcard;
-use LuchaninovProphecy\Util\StringUtil;
-use LuchaninovProphecy\Exception\Call\UnexpectedCallException;
+use Prophecy\Prophecy\MethodProphecy;
+use Prophecy\Prophecy\ObjectProphecy;
+use Prophecy\Argument\ArgumentsWildcard;
+use Prophecy\Util\StringUtil;
+use Prophecy\Exception\Call\UnexpectedCallException;
 
 /**
  * Calls receiver & manager.

@@ -3,8 +3,8 @@
 namespace spec\Prophecy\Argument\Token;
 
 use PhpSpec\ObjectBehavior;
-use LuchaninovProphecy\Argument;
-use LuchaninovProphecy\Exception\InvalidArgumentException;
+use Prophecy\Argument;
+use Prophecy\Exception\InvalidArgumentException;
 
 class ArrayEntryTokenSpec extends ObjectBehavior
 {

@@ -3,8 +3,8 @@
 namespace spec\Prophecy\Doubler\ClassPatch;
 
 use PhpSpec\ObjectBehavior;
-use LuchaninovProphecy\Argument;
-use LuchaninovProphecy\Doubler\Generator\Node\MethodNode;
+use Prophecy\Argument;
+use Prophecy\Doubler\Generator\Node\MethodNode;
 
 class KeywordPatchSpec extends ObjectBehavior
 {

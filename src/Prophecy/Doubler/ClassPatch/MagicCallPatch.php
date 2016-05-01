@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Doubler\ClassPatch;
+namespace Prophecy\Doubler\ClassPatch;
 
 use phpDocumentor\Reflection\DocBlock;
-use LuchaninovProphecy\Doubler\Generator\Node\ClassNode;
-use LuchaninovProphecy\Doubler\Generator\Node\MethodNode;
+use Prophecy\Doubler\Generator\Node\ClassNode;
+use Prophecy\Doubler\Generator\Node\MethodNode;
 
 /**
  * Discover Magical API using "@method" PHPDoc format.

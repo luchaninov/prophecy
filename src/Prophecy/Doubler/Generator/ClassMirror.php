@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Doubler\Generator;
+namespace Prophecy\Doubler\Generator;
 
-use LuchaninovProphecy\Exception\InvalidArgumentException;
-use LuchaninovProphecy\Exception\Doubler\ClassMirrorException;
+use Prophecy\Exception\InvalidArgumentException;
+use Prophecy\Exception\Doubler\ClassMirrorException;
 use ReflectionClass;
 use ReflectionMethod;
 use ReflectionParameter;

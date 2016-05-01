@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Argument\Token;
+namespace Prophecy\Argument\Token;
 
-use LuchaninovProphecy\Exception\InvalidArgumentException;
+use Prophecy\Exception\InvalidArgumentException;
 
 /**
  * Array entry token.

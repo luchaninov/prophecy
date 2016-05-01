@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Doubler;
+namespace Prophecy\Doubler;
 
-use LuchaninovProphecy\Exception\Doubler\DoubleException;
-use LuchaninovProphecy\Exception\Doubler\ClassNotFoundException;
-use LuchaninovProphecy\Exception\Doubler\InterfaceNotFoundException;
+use Prophecy\Exception\Doubler\DoubleException;
+use Prophecy\Exception\Doubler\ClassNotFoundException;
+use Prophecy\Exception\Doubler\InterfaceNotFoundException;
 use ReflectionClass;
 
 /**

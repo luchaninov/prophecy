@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Comparator;
+namespace Prophecy\Comparator;
 
 use SebastianBergmann\Comparator\Comparator;
 use SebastianBergmann\Comparator\ComparisonFailure;

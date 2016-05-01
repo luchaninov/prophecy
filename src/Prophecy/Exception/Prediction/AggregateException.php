@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Exception\Prediction;
+namespace Prophecy\Exception\Prediction;
 
-use LuchaninovProphecy\Prophecy\ObjectProphecy;
+use Prophecy\Prophecy\ObjectProphecy;
 
 class AggregateException extends \RuntimeException implements PredictionException
 {

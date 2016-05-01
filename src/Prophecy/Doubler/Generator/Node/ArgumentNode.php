@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Doubler\Generator\Node;
+namespace Prophecy\Doubler\Generator\Node;
 
 /**
  * Argument node.

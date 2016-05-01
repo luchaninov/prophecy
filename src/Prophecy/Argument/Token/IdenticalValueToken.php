@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Argument\Token;
+namespace Prophecy\Argument\Token;
 
-use LuchaninovProphecy\Util\StringUtil;
+use Prophecy\Util\StringUtil;
 
 /**
  * Identical value token.

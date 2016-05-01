@@ -3,7 +3,7 @@
 namespace spec\Prophecy;
 
 use PhpSpec\ObjectBehavior;
-use LuchaninovProphecy\Argument;
+use Prophecy\Argument;
 
 class ProphetSpec extends ObjectBehavior
 {

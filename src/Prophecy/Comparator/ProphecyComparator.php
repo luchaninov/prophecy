@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Comparator;
+namespace Prophecy\Comparator;
 
-use LuchaninovProphecy\Prophecy\ProphecyInterface;
+use Prophecy\Prophecy\ProphecyInterface;
 use SebastianBergmann\Comparator\ObjectComparator;
 
 class ProphecyComparator extends ObjectComparator

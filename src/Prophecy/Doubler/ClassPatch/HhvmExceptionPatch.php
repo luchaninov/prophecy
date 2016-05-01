@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Doubler\ClassPatch;
+namespace Prophecy\Doubler\ClassPatch;
 
-use LuchaninovProphecy\Doubler\Generator\Node\ClassNode;
+use Prophecy\Doubler\Generator\Node\ClassNode;
 
 /**
  * Exception patch for HHVM to remove the stubs from special methods

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Exception\Doubler;
+namespace Prophecy\Exception\Doubler;
 
 class MethodNotFoundException extends DoubleException
 {

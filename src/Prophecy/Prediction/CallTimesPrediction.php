@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Prediction;
+namespace Prophecy\Prediction;
 
-use LuchaninovProphecy\Call\Call;
-use LuchaninovProphecy\Prophecy\ObjectProphecy;
-use LuchaninovProphecy\Prophecy\MethodProphecy;
-use LuchaninovProphecy\Argument\ArgumentsWildcard;
-use LuchaninovProphecy\Argument\Token\AnyValuesToken;
-use LuchaninovProphecy\Util\StringUtil;
-use LuchaninovProphecy\Exception\Prediction\UnexpectedCallsCountException;
+use Prophecy\Call\Call;
+use Prophecy\Prophecy\ObjectProphecy;
+use Prophecy\Prophecy\MethodProphecy;
+use Prophecy\Argument\ArgumentsWildcard;
+use Prophecy\Argument\Token\AnyValuesToken;
+use Prophecy\Util\StringUtil;
+use Prophecy\Exception\Prediction\UnexpectedCallsCountException;
 
 /**
  * Prediction interface.

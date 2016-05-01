@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Argument\Token;
+namespace Prophecy\Argument\Token;
 
 use SebastianBergmann\Comparator\ComparisonFailure;
-use LuchaninovProphecy\Comparator\Factory as ComparatorFactory;
-use LuchaninovProphecy\Util\StringUtil;
+use Prophecy\Comparator\Factory as ComparatorFactory;
+use Prophecy\Util\StringUtil;
 
 /**
  * Object state-checker token.

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Prophecy;
+namespace Prophecy\Prophecy;
 
 /**
  * Prophecies revealer interface.

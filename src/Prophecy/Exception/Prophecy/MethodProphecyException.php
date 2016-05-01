@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Exception\Prophecy;
+namespace Prophecy\Exception\Prophecy;
 
-use LuchaninovProphecy\Prophecy\MethodProphecy;
+use Prophecy\Prophecy\MethodProphecy;
 
 class MethodProphecyException extends ObjectProphecyException
 {

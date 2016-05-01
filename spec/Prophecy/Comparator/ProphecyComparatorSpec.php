@@ -3,8 +3,8 @@
 namespace spec\Prophecy\Comparator;
 
 use PhpSpec\ObjectBehavior;
-use LuchaninovProphecy\Argument;
-use LuchaninovProphecy\Prophet;
+use Prophecy\Argument;
+use Prophecy\Prophet;
 
 class ProphecyComparatorSpec extends ObjectBehavior
 {

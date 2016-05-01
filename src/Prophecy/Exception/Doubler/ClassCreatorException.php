@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Exception\Doubler;
+namespace Prophecy\Exception\Doubler;
 
-use LuchaninovProphecy\Doubler\Generator\Node\ClassNode;
+use Prophecy\Doubler\Generator\Node\ClassNode;
 
 class ClassCreatorException extends \RuntimeException implements DoublerException
 {

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Util;
+namespace Prophecy\Util;
 
-use LuchaninovProphecy\Call\Call;
+use Prophecy\Call\Call;
 
 /**
  * String utility.

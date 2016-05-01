@@ -3,7 +3,7 @@
 namespace spec\Prophecy\Comparator;
 
 use PhpSpec\ObjectBehavior;
-use LuchaninovProphecy\Argument;
+use Prophecy\Argument;
 
 class ClosureComparatorSpec extends ObjectBehavior
 {

@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Doubler;
+namespace Prophecy\Doubler;
 
 use Doctrine\Instantiator\Instantiator;
-use LuchaninovProphecy\Doubler\ClassPatch\ClassPatchInterface;
-use LuchaninovProphecy\Doubler\Generator\ClassMirror;
-use LuchaninovProphecy\Doubler\Generator\ClassCreator;
-use LuchaninovProphecy\Exception\InvalidArgumentException;
+use Prophecy\Doubler\ClassPatch\ClassPatchInterface;
+use Prophecy\Doubler\Generator\ClassMirror;
+use Prophecy\Doubler\Generator\ClassCreator;
+use Prophecy\Exception\InvalidArgumentException;
 use ReflectionClass;
 
 /**

@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Promise;
+namespace Prophecy\Promise;
 
-use LuchaninovProphecy\Prophecy\ObjectProphecy;
-use LuchaninovProphecy\Prophecy\MethodProphecy;
-use LuchaninovProphecy\Exception\InvalidArgumentException;
+use Prophecy\Prophecy\ObjectProphecy;
+use Prophecy\Prophecy\MethodProphecy;
+use Prophecy\Exception\InvalidArgumentException;
 use Closure;
 
 /**

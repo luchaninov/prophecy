@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace LuchaninovProphecy\Call;
+namespace Prophecy\Call;
 
 use Exception;
 
